@@ -1,0 +1,6 @@
+Alice Martin - alice.martin@novatech.local - RH
+Bob Durand - bob.durand@novatech.local - Dev
+Charlie Lefevre - charlie.lefevre@novatech.local - Ops
+David Bernard - david.bernard@novatech.local - Finance
+Eve Dupont - eve.dupont@novatech.local - QA
+Frank Leroy - frank.leroy@novatech.local - Support
