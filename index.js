@@ -1,4 +1,3 @@
-index.js
 // index.js - Intranet RH demo 
 // But : fournir une petite appli vulnérable (non destructive)
 const express = require('express');
@@ -63,3 +62,4 @@ function escapeHtml(str) {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Intranet demo listening on port ${PORT}`));
+
